@@ -22,15 +22,15 @@
 
 ### :pen: About Me :
 
-I am Simlex, a UI-UX Designer & Front-end web Developer from Nigeria :nigeria: .
+I am Simlex, a UI-UX Designer & Front-end web Engineer from Nigeria :nigeria: .
 
-- :telescope: I’m working as a User Interface & Experience designer, and contributing to frontend for building web applications.
+- :telescope: I am currently working as a Frontend engineer. I use ReactJS and NextJS in building my web applications.
  
-- :seedling: Currently learning React JS and exploring Youtube Content Creation.
+- :seedling: Currently learning React Native and exploring Youtube Content Creation.
 
 - :zap: In my free time, I solve problems, read books, or listen to podcasts.
 
-- 💞️ I’m looking to collaborate on UIUX and coding jobs
+- 💞️ I’m looking to collaborate on UIUX and coding gigs
 
 - :mailbox: Reach me via Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/similoluwa-afolabi-449845170/)
 
