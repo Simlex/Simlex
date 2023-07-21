@@ -30,7 +30,7 @@ I am Simlex, a UI-UX Designer & Front-end Engineer from Nigeria :nigeria: .
 
 - :zap: In my free time, I play games, I see movies, or listen to podcasts.
 
-- 💞️ I’m looking to collaborate on UIUX and coding gigs
+- 💞️ I’m looking to collaborate on UIUX design and Frontend development gigs
 
 - :mailbox: Reach me via Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/similoluwa-afolabi-449845170/)
 
