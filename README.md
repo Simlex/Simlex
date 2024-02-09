@@ -38,7 +38,7 @@ I am Simlex, a Software Engineer focused on Front-end Development from Nigeria :
 
 - :mailbox: Reach me via Mail: [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:similoluwaafolabi@gmail.com)
 
--  Reach me via whatsapp: [![Whatsapp Badge](https://img.shields.io/badge/-whatsapp-green?style=flat&logo=Gmail&logoColor=white)](wa.me/2348098095334)
+-  Reach me via whatsapp: [![Whatsapp Badge](https://img.shields.io/badge/-whatsapp-green?style=flat&logo=Whatsapp&logoColor=white)](https://wa.me/2348098095334)
 
 ---
 
