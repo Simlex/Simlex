@@ -36,7 +36,7 @@ I am Simlex, a Software Engineer focused on Front-end Development from Nigeria :
 
 - :mailbox: Reach me via Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/similoluwa-afolabi-449845170/)
 
-- :mailbox: Reach me via Mail: [![Gmail Badge](https://img.shields.io/badge/-gmail-blue?style=flat&logo=Gmail&logoColor=white)](https://mailto:similoluwaafolabi@gmail.com)
+- :mailbox: Reach me via Mail: [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=Gmail&logoColor=white)](https://mailto:similoluwaafolabi@gmail.com)
 
 -  How to reach me: whatsapp via: wa.me/2348098095334
 
