@@ -26,11 +26,11 @@ I am Simlex, a Software Engineer focused on Front-end Development from Nigeria :
  
 - :telescope: Experienced in Frontend development, User Interface & Experience Design (UIUX), Backend development, and Mobile App development.
 
-- :telescope: I use ReactJS, NextJS, TypeScript, SCSS, Prisma, in building my web applications.
+- :telescope: I use ReactJS, NextJS, TypeScript, SCSS, Prisma, in building Web applications.
  
-- :seedling: Building Mobile Apps with React Native.
+- :telescope: I use React Native in building Mobile applications.
  
-- :seedling: Building REST APIs with NodeJS, C# (ASP.NET).
+- :telescope: I use NodeJS, and C# (ASP.NET) in building REST APIs.
  
 - :seedling: Exploring Youtube Content Creation.
 
