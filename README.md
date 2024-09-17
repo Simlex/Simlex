@@ -1,3 +1,54 @@
+👋 Hi, I'm Similoluwa Afolabi! I’m the Executive Director at Ticketsdeck 🎖️ and a software engineer driven by the power of technology to inspire change. My focus is on building solutions that leave a lasting impact across various sectors.
+
+## About Me
+With a strong foundation in user interface & experience design, software engineering and leadership experience, I combine technical expertise, discipline, and a user-first mindset to build impactful software solutions. My journey from being an intern to a engineering team lead has fueled my passion for creating innovative tools that not only solve real-world challenges but also empower individuals in tech. I aim to develop products that foster growth, and makes life easier for people.
+
+## Technical Skills 🛠️
+- Languages: JavaScript, TypeScript, C#
+- Frameworks & Libraries: React, Next.js, Node.js, Prisma, TailwindCSS, ASP.NET
+- Tools & Platforms: GitHub, Docker, AWS, Vercel, Netlify, Azure
+- AI: Exploring machine learning concepts, and applying these to optimize outcomes.
+
+## Key Projects 📚
+- [247 Travels](https://www.247travels.com/): Worked with a team in building this flight ticketing web application.
+- [Ticketsdeck Events](https://events.ticketsdeck.com/): Leading the development of an event ticketing web application.
+- [McNif Cuisine](https://www.247travels.com/): Led a team in building this buffet booking web application.
+- [Bablo Homes](https://bablohomes.co.uk/): Led a team in building this property website.
+
+You can view these and more here.
+
+## Leadership & Advocacy 🌟
+- Ticketsdeck Events: As the Executive Director and Engineering lead, I have been able to profer user friendly solutions to the event ticketing platform.
+- Tech Leadership: As the Engineering Team Lead, I've driven the transformation of traditional software development practices by integrating modern technologies and fostering a collaborative, growth-driven team culture.
+- Community Building: I have developed a strong community of tech professionals, creating opportunities for mentorship, networking, and career growth within the tech industry. 🤝
+- Public Speaking: Regularly speak at tech spaces, sharing insights on leadership, and tech education. 🎤
+
+## Professional Goals 🚀
+- Career Development: Focused on furthering my career in software development, Artificial Intelligence (AI), and specifically in roles that leverage my leadership experience and technical skills in building impactful tech solutions.
+- Continuous Learning: Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
+
+
+### :fire: Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Simlex&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simlex&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Connect with Me 📬
+- 🐦 <a href="https://www.x.com/simlex_x">
+    Twitter
+  </a>
+- 📫 <a href="mailto:similoluwaafolabi@gmail.com">
+    Email
+  </a>
+- 🔗 <a href="https://www.linkedin.com/in/similoluwa-afolabi-449845170/">
+    LinkedIn
+  </a>
+
+I’m looking forward to collaborating on projects that are at the intersection of technology and humanity. Let’s connect! 🌍
+
+
+<!---
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/> 
   </br></br>
@@ -9,16 +60,15 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<!-- <img src="https://komarev.com/ghpvc/?username=simlex&style=flat-square&color=blue" alt=""/> -->
+<img src="https://komarev.com/ghpvc/?username=simlex&style=flat-square&color=blue" alt=""/>
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
-<!-- <div align="center">
+<div align="center">
   <img src="https://simlex.netlify.app/images/Profile-Picc.jpg" width="30%" height="30%"/>
-</div> -->
----
+</div> 
 
 ### :pen: About Me :
 
